@@ -1,0 +1,19 @@
+.theBody {
+  background-color: rgb(199, 241, 241);
+  border-color: blue;
+  border-radius: 1%;
+}
+
+.container {
+  border-radius: 10px;
+  background-color: aquamarine;
+}
+
+.btn {
+  align-items: center;
+}
+
+.mainHeader {
+  color: blueviolet;
+  text-align: center;
+}
